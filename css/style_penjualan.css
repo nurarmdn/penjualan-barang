@@ -1,0 +1,44 @@
+html{
+	background-color:rgba(244, 248, 251, 1)
+}
+
+body{
+	border-radius: 40px;
+	margin: 200px auto;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: white;
+	font-family: Berlin Sans FB;
+}
+
+h1 {
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	font-family: cooper black;
+	padding:10px;
+	background-color: #3c8dbc;
+	text-align: center;
+	font-size: 23px;
+	width: 70%;
+}
+
+label{
+ color: #53bd84;
+ text-shadow: 0 1px 0 #fff;
+ font-size: 18px;
+
+}
+
+button[type=submit]{
+ font-size: 14px;
+ background: linear=gradient(#53bd84 5%, #fff 100%);
+ color: #4E4D4B;
+ font-weight: bold;
+ cursor: pointer;
+ width: 20%;
+ padding: 5px 0;
+ outline: 10px;
+
+}

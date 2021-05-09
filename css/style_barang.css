@@ -1,0 +1,68 @@
+		.sidebar {
+		  height: 100%;
+		  width: 200px;
+		  position: fixed;
+		  z-index: 1;
+		  top: 0;
+		  left: 0;
+		  background-color: #003071;
+		  overflow-x: hidden;
+		  padding-top: 16px;
+		  margin-top: 46px;
+		}
+
+		.sidebar a {
+		  padding: 6px 8px 6px 16px;
+		  text-decoration: none;
+		  font-size: 17px;
+		  color: white;
+		  display: block;
+		}
+		.option{
+		margin-top: 20px;
+		}
+		.option2{
+		margin-top:20px;
+		border-right: 5px solid lightcoral;
+		}
+
+		@media screen and (max-height: 450px) {
+		  .sidebar {padding-top: 15px;}
+		  .sidebar a {font-size: 18px;}
+		}
+
+
+h2{
+ font-family: cooper black;
+ background-color: lightblue;
+ width: 100%;
+ padding: 30px 35px;
+ margin: -10px -50px;
+ text-align:center;
+ color: #fff;
+}
+
+th{
+ font-family: bookman old style;
+ color: #53bd84;
+ text-shadow: 0 1px 0 #fff;
+ font-size: 16px;
+ font-weight: bold;
+}
+
+table{
+	color: lightblue;
+	margin-left: 210px;
+	width: 75%;
+	border: 1px solid #f2f5f7;
+}
+
+td{
+ color: black;
+ text-shadow: 0 1px 0 #fff;
+ font-size: 16px;
+}
+
+body{
+	font-family: Berlin Sans FB;
+}

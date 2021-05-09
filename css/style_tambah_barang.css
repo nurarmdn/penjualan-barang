@@ -1,0 +1,91 @@
+h2{
+ font-family: cooper black;
+ background-color: lightblue;
+ width: 50%;
+ padding: 30px 35px;
+ margin: -10px -50px;
+ text-align:center;
+ color: #fff;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: bookman old style ;
+}
+
+input[type=text]{
+ width: 100%;
+ height: 25px;
+ padding: 5px;
+ margin-bottom: 10px;
+ margin-top: 10px;
+ border: 2px solid #ccc;
+ color: #53bd84;
+ font-size: 16px;
+}
+
+label{
+ color: #53bd84;
+ text-shadow: 0 1px 0 #fff;
+ font-size: 14px;
+ font-weight: bold;
+}
+
+input[type=submit]{
+ font-size: 16px;
+ background: linear=gradient(#53bd84 5%, #fff 100%);
+ color: #4E4D4B;
+ font-weight: bold;
+ cursor: pointer;
+ width: 100%;
+ padding: 10px 0;
+ outline: none;
+}
+
+hr{
+ margin: 10px -50px;
+ border: 0;
+ border-top: 1px solid #ccc;
+ margin-bottom: 25px;
+}
+
+select{
+ width: 106%;
+ height: 25px;
+ padding: 0px;
+ margin-bottom: 10px;
+ margin-top: 5px;
+ border: 2px solid #ccc;
+ color: #53bd84;
+ font-size: 16px;
+}
+
+label{
+ color: #53bd84;
+ text-shadow: 0 1px 0 #fff;
+ font-size: 16px;
+ font-weight: bold;
+}
+
+button[type=submit]{
+ font-size: 14px;
+ background: linear=gradient(#53bd84 5%, #fff 100%);
+ color: #4E4D4B;
+ font-weight: bold;
+ cursor: pointer;
+ width: 10%;
+ padding: 5px 0;
+ outline: 10px;
+}
+
+button[type=batalkan]{
+ font-size: 14px;
+ background: linear=gradient(#53bd84 5%, #fff 100%);
+ color: #4E4D4B;
+ font-weight: bold;
+ cursor: pointer;
+ width: 10%;
+ padding: 5px 0;
+ outline: 10px;
+}
